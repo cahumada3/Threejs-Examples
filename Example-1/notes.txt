@@ -1,0 +1,12 @@
+Basics of THREE.js
+- Scene:
+- Objects: 
+    - Lost of different types of geometry
+    - Cubes, spheres, rectangles, toruses, teapot 
+- Materials:
+- Mesh:
+- Camera:
+    - Perspective camera: 
+- Renderer:
+
+- Animation Portion
